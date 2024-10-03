@@ -4,8 +4,8 @@
 Hello, I'm Prujith. Data Scientist and RPA developer with expertise in Generative AI, Prompt Engineering, LLM and SQL.
 
 - Model Building using scikit-learn.
-- Data Visualization by Seaborn and Matplotlib.
 - Finetuning with LangChain.
+- Data Visualization by Seaborn and Matplotlib.
 - Deep Learning using Keras.
 
 ### 📚 Projects
@@ -13,7 +13,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Pruji
 
 ### 🛠️ Tools
 - Language: Python
-- Database: PostgreSQL, MySQL, 
+- Database: PostgreSQL, MySQL
 - Large Language Model: GPT, Mistral
 
 ### 👋🏻 Connect with Me
