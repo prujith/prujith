@@ -9,6 +9,7 @@ Developing dashboards on Tableau and Looker Studio.
 Data analysis and reporting using Google Sheets and Excel.
 
 📚 ## Projects
+
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
