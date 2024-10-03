@@ -9,7 +9,7 @@ Hello, I'm Prujith. Data Scientist and RPA developer with expertise in Generativ
 - Deep Learning using Keras.
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/Prujith/DataScience_Projects).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/prujith/portfolio/blob/main/README.md).
 
 ### 🛠️ Tools
 - Language: Python
