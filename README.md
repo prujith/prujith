@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Hello, I'm Prujith. Data Scientist and RPA developer with expertise in Generative AI, Prompt Engineering, LLM and SQL.
+I'm Prujith. Data Scientist and RPA developer with expertise in Generative AI, Prompt Engineering, LLM and SQL.
 
 - Model Building using scikit-learn.
 - Finetuning with LangChain.
