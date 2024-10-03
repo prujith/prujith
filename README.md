@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 
-Hello, I'm Prujith. Data Scientist and RPA developer with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+Hello, I'm Prujith. Data Scientist and RPA developer with expertise in Generative AI, Prompt Engineering, LLM and SQL.
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+- Exploratory data analysis using Pandas.
+- Data Visualization using Seaborn and Matplotlib.
+- Feature Engineering.
+- Deep Learning using Keras.
 
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/Prujith/DataScience_Projects).
